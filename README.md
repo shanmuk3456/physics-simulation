@@ -74,18 +74,18 @@ All simulations are based on real physics equations and dynamic parameter contro
 
 The system follows a modular, domain-based architecture.
 User Input (Physics Word Problem)
-↓
+          ↓
 AI Parsing Layer
 (Natural Language Processing)
-↓
+          ↓
 Structured Parameter Output (JSON)
-↓
+          ↓
 Domain Detection & Mapping
-↓
+          ↓
 Physics Engine (Modular Domains)
-↓
+          ↓
 Simulation Rendering Engine
-↓
+          ↓
 Real-Time Graph System + Controls
 
 ### Architecture Layers
