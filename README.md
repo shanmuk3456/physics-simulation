@@ -116,3 +116,15 @@ Real-Time Graph System + Controls
 - Live graph updates (Position vs Time, Velocity vs Time)
 
 The system maintains a single unified simulation workspace while dynamically loading different physics engines based on the problem context.
+
+
+## 🖼 Demo Screenshots
+
+### 🧠 Create Simulation Page
+![Create Page](./project-pics/create.png)
+
+### 🎮 Interactive Simulation
+![Simulation Page](./project-pics/simulate.png)
+
+### 📚 Problem Library
+![Library Page](./project-pics/library.png)
