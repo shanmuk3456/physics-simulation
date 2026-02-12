@@ -121,10 +121,10 @@ The system maintains a single unified simulation workspace while dynamically loa
 ## 🖼 Demo Screenshots
 
 ### 🧠 Create Simulation Page
-![Create Page](./project-pics/screenshot-1770910354830)
+![Create Page](./project-pics/screenshot-1770910354830.png)
 
 ### 🎮 Interactive Simulation
-![Simulation Page](./project-pics/screenshot-1770910410433)
+![Simulation Page](./project-pics/screenshot-1770910410433.png)
 
 ### 📚 Problem Library
-![Library Page](./project-pics/screenshot-1770910422144)
+![Library Page](./project-pics/screenshot-1770910422144.png)
