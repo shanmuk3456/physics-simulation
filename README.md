@@ -12,6 +12,9 @@ This platform bridges the gap between textual problem statements and conceptual 
 
 ---
 
+🔗 Live Demo: [Try the AI Physics Simulator]([https://physicssimai-bvyqm93.public.builtwithrocket.new])
+
+
 # 🧠 Description
 
 STEM learners often struggle to understand physics word problems because they require mental visualization of abstract concepts such as motion, forces, oscillations, and relationships.
